@@ -50,6 +50,7 @@
 
 ==== link:/docs/case/r01_case_3.html[金属部品の熱処理や機械加工を営むC社の事例^]
 
+==== link:/docs/case/h30_case_3.html[プラスチック射出成形加工を営むC社の事例^]
 
 == 参照
 
